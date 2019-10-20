@@ -1,6 +1,6 @@
 /*
-  Theme Name: Rapid
-  Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
+  Theme Name: Career Talk
+  Theme URL: https://bootstrapmade.com/Career Talk-multipurpose-bootstrap-business-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
 */
@@ -149,6 +149,10 @@ h6 {
   border-left: 0;
 }
 
+.clearDiv{
+    padding: 100px;
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -198,8 +202,8 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+  margin: 2px 0;
+  max-height: 65px;
 }
 
 .main-pages {
